@@ -1,0 +1,4 @@
+tv-samsung-public-emulator-image-x86_6.5.16_windows-64 filter=lfs diff=lfs merge=lfs -text
+tv-samsung-websimulator-core_6.5.4_windows-64 filter=lfs diff=lfs merge=lfs -text
+tv-samsung-public-emulator-image-x86_6.5.16_windows-64.zip filter=lfs diff=lfs merge=lfs -text
+tv-samsung-websimulator-core_6.5.4_windows-64.zip filter=lfs diff=lfs merge=lfs -text
